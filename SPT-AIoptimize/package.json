@@ -1,0 +1,8 @@
+{
+	"name": "AI综合优化",
+	"author": "远古大废物",
+	"version": "2.2.0",
+	"license": "有问题加群反馈692706482",
+	"main": "src/mod.js",
+	"akiVersion": "3.4.x||3.5.x"
+}
